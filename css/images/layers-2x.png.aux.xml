@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">114</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">191.23749312809</MDI>
+      <MDI key="STATISTICS_STDDEV">40.164377772772</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">67.27</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
